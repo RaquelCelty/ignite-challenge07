@@ -5,7 +5,6 @@ export function Header() {
     <Flex
       as="header"
       w="100%"
-      maxW={1400}
       h="100px"
       align="center"
       justifyContent="center"

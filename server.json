@@ -1,0 +1,238 @@
+{
+  "continents": [
+    {
+      "slug": "europa",
+      "name": "Europa",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste",
+      "banner": "https://source.unsplash.com/EXdXLrZXS9Q",
+      "countriesAmount": 50,
+      "languagesAmount": 24,
+      "popularCitiesAmount": 30,
+      "popularCities": [
+        {
+          "city": "Londres",
+          "country": "Reino Unido",
+          "countryCode": "GB",
+          "cityImg": "https://source.unsplash.com/Ab9vQBR6f8E"
+        },
+        {
+          "city": "Paris",
+          "country": "França",
+          "countryCode": "FR",
+          "cityImg": "https://source.unsplash.com/NT1mJPgni6A"
+        },
+        {
+          "city": "Roma",
+          "country": "Itália",
+          "countryCode": "IT",
+          "cityImg": "https://source.unsplash.com/hs9hfDfeC3Q"
+        },
+        {
+          "city": "Praga",
+          "country": "República Checa",
+          "countryCode": "CZ",
+          "cityImg": "https://source.unsplash.com/X8Vo9rGVPS8"
+        },
+        {
+          "city": "Barcelona",
+          "country": "Espanha",
+          "countryCode": "ES",
+          "cityImg": "https://source.unsplash.com/oJsRqwMHWHI"
+        },
+        {
+          "city": "Milão",
+          "country": "Itália",
+          "countryCode": "IT",
+          "cityImg": "https://source.unsplash.com/SKHcpqR8aEY"
+        }
+      ]
+    },
+    {
+      "slug": "asia",
+      "name": "Ásia",
+      "description": " Ásia é o maior continente em área terrestre do mundo, estando boa parte do continente localizado no Hemisfério Norte. Além de ser o mais extenso, é também o mais populoso, habitando nele cerca de três quintos da população mundial. A Ásia é multicultural, abrigando diversas culturas, etnias, religiões e tradições.",
+      "banner": "https://source.unsplash.com/WHhbYArwFt8",
+      "countriesAmount": 48,
+      "languagesAmount": 2.300,
+      "popularCitiesAmount": 25,
+      "popularCities": [
+        {
+          "city": "Hong Kong",
+          "country": "China",
+          "countryCode": "CN",
+          "cityImg": "https://source.unsplash.com/JVCozvGeKNs"
+        },
+        {
+          "city": "Bangkok",
+          "country": "Tailândia",
+          "countryCode": "TH",
+          "cityImg": "https://source.unsplash.com/Wo0K--ktL_M"
+        },
+        {
+          "city": "Macau",
+          "country": "China",
+          "countryCode": "CN",
+          "cityImg": "https://source.unsplash.com/2AUg3F3SmLI"
+        },
+        {
+          "city": "Dubai",
+          "country": "Emirados Árabes Unidos",
+          "countryCode": "AE",
+          "cityImg": "https://source.unsplash.com/VbDjv8-8ibc"
+        },
+        {
+          "city": "Kuala Lumpur",
+          "country": "Malásia",
+          "countryCode": "MY",
+          "cityImg": "https://source.unsplash.com/NecP3sIvRX8"
+        },
+        {
+          "city": "Delhi",
+          "country": "Índia",
+          "countryCode": "IN",
+          "cityImg": "https://source.unsplash.com/LLK0mYl-lu0"
+        }
+      ]
+    },
+    {
+      "slug": "africa",
+      "name": "África",
+      "description": "África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial. É conhecida pela sua pluralidade étnica e cultural, e, por meio de uma história milenar, é capaz de contar a história de toda a humanidade.",
+      "banner": "https://source.unsplash.com/60XLoOgwkfA",
+      "countriesAmount": 54,
+      "languagesAmount": 2000,
+      "popularCitiesAmount": 4,
+      "popularCities": [
+        {
+          "city": "Cairo",
+          "country": "Egito",
+          "countryCode": "EG",
+          "cityImg": "https://source.unsplash.com/TAtKoLZUc3I"
+        },
+        {
+          "city": "Joanesburgo",
+          "country": "África do Sul",
+          "countryCode": "ZA",
+          "cityImg": "https://source.unsplash.com/ybjhQsdXxzY"
+        },
+        {
+          "city": "Marrakech",
+          "country": "Marrocos",
+          "countryCode": "MA",
+          "cityImg": "https://source.unsplash.com/pr_PlYC8xhM"
+        },
+        {
+          "city": "Hurghada",
+          "country": "Egito",
+          "countryCode": "EG",
+          "cityImg": "https://source.unsplash.com/XQeX6FLFG8E"
+        }
+      ]
+    },
+    {
+      "slug": "america-do-norte",
+      "name": "América do Norte",
+      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
+      "banner": "https://source.unsplash.com/B74k5ZpiJNU",
+      "countriesAmount": 23,
+      "languagesAmount": 165,
+      "popularCitiesAmount": 10,
+      "popularCities": [
+        {
+          "city": "New York City",
+          "country": "Estados Unidos",
+          "countryCode": "US",
+          "cityImg": "https://source.unsplash.com/iEgP_YHs-jM"
+        },
+        {
+          "city": "Miami",
+          "country": "Estados Unidos",
+          "countryCode": "US",
+          "cityImg": "https://source.unsplash.com/Ev0Vj_0PPck"
+        },
+        {
+          "city": "Los Angeles",
+          "country": "Estados Unidos",
+          "countryCode": "US",
+          "cityImg": "https://source.unsplash.com/4iXagiKXn3Y"
+        },
+        {
+          "city": "Las Vegas",
+          "country": "Estados Unidos",
+          "countryCode": "US",
+          "cityImg": "https://source.unsplash.com/fuDu3_o_TaY"
+        },
+        {
+          "city": "Cancún",
+          "country": "México",
+          "countryCode": "MX",
+          "cityImg": "https://source.unsplash.com/jdswuUaDeKM"
+        },
+        {
+          "city": "Orlando",
+          "country": "Estados Unidos",
+          "countryCode": "US",
+          "cityImg": "https://source.unsplash.com/pprY3KCsoAg"
+        }
+      ]
+    },
+    {
+      "slug": "america-do-sul",
+      "name": "América do Sul",
+      "description": "A América do Sul está localizada em grande parte no hemisfério sul, na zona intertropical ocidental. A América do Sul abrange um território de 18 milhões de quilômetros quadrados e é banhada a leste pelo oceano Atlântico, a oeste pelo oceano Pacífico e ao norte pelo mar das Antilhas, conhecido como do Caribe.",
+      "banner": "https://source.unsplash.com/hbs08ml2T2c",
+      "countriesAmount": 14,
+      "languagesAmount": 5,
+      "popularCitiesAmount": 3,
+      "popularCities": [
+        {
+          "city": "Buenos aires",
+          "country": "Argentina",
+          "countryCode": "AR",
+          "cityImg": "https://source.unsplash.com/_yo28TDZFNo"
+        },
+        {
+          "city": "Lima",
+          "country": "Peru",
+          "countryCode": "PE",
+          "cityImg": "https://source.unsplash.com/6Q4wktTem_I"
+        },
+        {
+          "city": "Rio de Janeiro",
+          "country": "Brasil",
+          "countryCode": "BR",
+          "cityImg": "https://source.unsplash.com/tYGZvg-Ozh4"
+        }
+      ]
+    },
+    {
+      "slug": "oceania",
+      "name": "Oceania",
+      "description": "A Oceania é o continente mais isolado do mundo, sua barreira geográfica fez com que fosse o último a ser descoberto pelos europeus. Em razão desse atraso em seu descobrimento ficou conhecido como 'mundo novo'.",
+      "banner": "https://source.unsplash.com/Hao52Fu9-F8",
+      "countriesAmount": 14,
+      "languagesAmount": 5000,
+      "popularCitiesAmount": 3,
+      "popularCities": [
+        {
+          "city": "Sydney",
+          "country": "Austrália",
+          "countryCode": "AU",
+          "cityImg": "https://source.unsplash.com/F2LC2eh4TCg"
+        },
+        {
+          "city": "Melbourne",
+          "country": "Austrália",
+          "countryCode": "AU",
+          "cityImg": "https://source.unsplash.com/-gmtAa0Q5MI"
+        },
+        {
+          "city": "Auckland",
+          "country": "Nova Zelândia",
+          "countryCode": "NZ",
+          "cityImg": "https://source.unsplash.com/hIKVSVKH7No"
+        }
+      ]
+    }
+  ]
+}
