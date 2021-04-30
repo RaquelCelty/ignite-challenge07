@@ -33,7 +33,7 @@ export default function Continent({ continent }: ContinentProps) {
 
   return (
     <Box>
-      <Header />
+      <Header hasBackLink />
 
       <Box
         bgImage={`url(${continent.banner})`}
