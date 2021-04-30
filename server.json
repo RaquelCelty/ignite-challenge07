@@ -100,7 +100,7 @@
       "description": "África é um dos seis continentes do mundo, sendo o terceiro maior em extensão territorial. É conhecida pela sua pluralidade étnica e cultural, e, por meio de uma história milenar, é capaz de contar a história de toda a humanidade.",
       "banner": "https://source.unsplash.com/60XLoOgwkfA",
       "countriesAmount": 54,
-      "languagesAmount": 2000,
+      "languagesAmount": 2.000,
       "popularCitiesAmount": 4,
       "popularCities": [
         {
@@ -130,53 +130,6 @@
       ]
     },
     {
-      "slug": "america-do-norte",
-      "name": "América do Norte",
-      "description": "A América do Norte está localizada no extremo norte das Américas e é composta por apenas três países: Estados Unidos, Canadá e México, além de territórios de domínios europeus, como a Groelândia (pertencente ao Reino da Dinamarca, com representação no parlamento) e Bermudas (dependência britânica).",
-      "banner": "https://source.unsplash.com/B74k5ZpiJNU",
-      "countriesAmount": 23,
-      "languagesAmount": 165,
-      "popularCitiesAmount": 10,
-      "popularCities": [
-        {
-          "city": "New York City",
-          "country": "Estados Unidos",
-          "countryCode": "US",
-          "cityImg": "https://source.unsplash.com/iEgP_YHs-jM"
-        },
-        {
-          "city": "Miami",
-          "country": "Estados Unidos",
-          "countryCode": "US",
-          "cityImg": "https://source.unsplash.com/Ev0Vj_0PPck"
-        },
-        {
-          "city": "Los Angeles",
-          "country": "Estados Unidos",
-          "countryCode": "US",
-          "cityImg": "https://source.unsplash.com/4iXagiKXn3Y"
-        },
-        {
-          "city": "Las Vegas",
-          "country": "Estados Unidos",
-          "countryCode": "US",
-          "cityImg": "https://source.unsplash.com/fuDu3_o_TaY"
-        },
-        {
-          "city": "Cancún",
-          "country": "México",
-          "countryCode": "MX",
-          "cityImg": "https://source.unsplash.com/jdswuUaDeKM"
-        },
-        {
-          "city": "Orlando",
-          "country": "Estados Unidos",
-          "countryCode": "US",
-          "cityImg": "https://source.unsplash.com/pprY3KCsoAg"
-        }
-      ]
-    },
-    {
       "slug": "america-do-sul",
       "name": "América do Sul",
       "description": "A América do Sul está localizada em grande parte no hemisfério sul, na zona intertropical ocidental. A América do Sul abrange um território de 18 milhões de quilômetros quadrados e é banhada a leste pelo oceano Atlântico, a oeste pelo oceano Pacífico e ao norte pelo mar das Antilhas, conhecido como do Caribe.",
@@ -185,6 +138,12 @@
       "languagesAmount": 5,
       "popularCitiesAmount": 3,
       "popularCities": [
+        {
+          "city": "Rio de Janeiro",
+          "country": "Brasil",
+          "countryCode": "BR",
+          "cityImg": "https://source.unsplash.com/7F65HDP0-E0"
+        },
         {
           "city": "Buenos aires",
           "country": "Argentina",
@@ -196,12 +155,6 @@
           "country": "Peru",
           "countryCode": "PE",
           "cityImg": "https://source.unsplash.com/6Q4wktTem_I"
-        },
-        {
-          "city": "Rio de Janeiro",
-          "country": "Brasil",
-          "countryCode": "BR",
-          "cityImg": "https://source.unsplash.com/tYGZvg-Ozh4"
         }
       ]
     },
@@ -209,28 +162,28 @@
       "slug": "oceania",
       "name": "Oceania",
       "description": "A Oceania é o continente mais isolado do mundo, sua barreira geográfica fez com que fosse o último a ser descoberto pelos europeus. Em razão desse atraso em seu descobrimento ficou conhecido como 'mundo novo'.",
-      "banner": "https://source.unsplash.com/Hao52Fu9-F8",
-      "countriesAmount": 14,
-      "languagesAmount": 5000,
+      "banner": "https://source.unsplash.com/7I6Hu7MjjYs",
+      "countriesAmount": 16,
+      "languagesAmount": 2.000,
       "popularCitiesAmount": 3,
       "popularCities": [
         {
           "city": "Sydney",
           "country": "Austrália",
           "countryCode": "AU",
-          "cityImg": "https://source.unsplash.com/F2LC2eh4TCg"
-        },
-        {
-          "city": "Melbourne",
-          "country": "Austrália",
-          "countryCode": "AU",
-          "cityImg": "https://source.unsplash.com/-gmtAa0Q5MI"
+          "cityImg": "https://source.unsplash.com/WOH0rtKfRbQ"
         },
         {
           "city": "Auckland",
           "country": "Nova Zelândia",
           "countryCode": "NZ",
-          "cityImg": "https://source.unsplash.com/hIKVSVKH7No"
+          "cityImg": "https://source.unsplash.com/dfT-ghOvaj0"
+        },
+        {
+          "city": "Melbourne",
+          "country": "Austrália",
+          "countryCode": "AU",
+          "cityImg": "https://source.unsplash.com/01fDADro0PU"
         }
       ]
     }
